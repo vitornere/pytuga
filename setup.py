@@ -87,9 +87,9 @@ setup(
     # Packages and dependencies
     package_dir={'': 'src'},
     packages=find_packages('src'),
-    install_requires=[
-        'qturtle~=0.5.0',
-    ],
+    # install_requires=[
+    #     'qturtle~=0.5.0',
+    # ],
 
     # Wrapped commands (for ipytuga)
     # cmdclass={
