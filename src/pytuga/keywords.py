@@ -45,6 +45,7 @@ TRANSLATIONS = dict(
     classe='class',
     importe='import', importar='import',
     usando='with',  # ???
+    mostrar='print', mostre='print', imprimir='print', imprima='print',
     # global='global',
 
     # Pytugues to pytugues
